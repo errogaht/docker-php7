@@ -13,7 +13,6 @@ RUN apt-get -y install \
     sqlite3 \
     curl \
     imagemagick \
-    apache2 \
     nano \
     mcrypt \
     git-core \
